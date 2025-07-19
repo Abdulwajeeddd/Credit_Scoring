@@ -71,9 +71,3 @@ python generate_credit_scores.py --input user-wallet-transactions.json --output 
 * Streamlit dashboard for public score lookup
 
 ---
-
-## 🧾 License
-
-Open-source, research-only. Built for DeFi risk transparency.
-
-Made with ❤️ for the future of trustless finance.
